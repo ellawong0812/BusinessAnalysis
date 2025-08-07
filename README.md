@@ -12,6 +12,9 @@ We explore multiple models, starting with:
 - Logistic Regression
 - Decision Trees  
 Additional models (e.g., Random Forest, XGBoost) may be tested for improved performance.
+- Gaussian Naive Bayes classifier
+- Neural Network 
+
 
 ## 📊 Dataset
 
